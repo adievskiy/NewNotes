@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="textUpdateDTN">Добавить</string>
+    <string name="hintNoteET">Введите заметку</string>
+    <string name="textIdTV">1</string>
+    <string name="textDateTV">1</string>
+    <string name="textNoteTV">lkdfkjkldfjlkajflkajfjds;flaskjfdds</string>
+    <string name="titleMenu_exit">Выход</string>
+    <string name="titleClearDB">Очистить БД</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textEditBTN">Редактировать</string>
+    <string name="textCancelEditNoteBTN">Отмена</string>
+    <string name="textConfirmEditNoteBTN">Изменить</string>
+    <string name="textSaveBTN">Сохранить</string>
+</resources>
